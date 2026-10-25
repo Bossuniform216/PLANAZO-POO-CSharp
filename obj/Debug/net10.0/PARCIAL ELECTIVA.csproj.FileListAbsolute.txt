@@ -1,0 +1,14 @@
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\bin\Debug\net10.0\PARCIAL ELECTIVA.exe
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\bin\Debug\net10.0\PARCIAL ELECTIVA.deps.json
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\bin\Debug\net10.0\PARCIAL ELECTIVA.runtimeconfig.json
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\bin\Debug\net10.0\PARCIAL ELECTIVA.dll
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\bin\Debug\net10.0\PARCIAL ELECTIVA.pdb
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\obj\Debug\net10.0\PARCIAL ELECTIVA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\obj\Debug\net10.0\PARCIAL ELECTIVA.AssemblyInfoInputs.cache
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\obj\Debug\net10.0\PARCIAL ELECTIVA.AssemblyInfo.cs
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\obj\Debug\net10.0\PARCIAL ELECTIVA.csproj.CoreCompileInputs.cache
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\obj\Debug\net10.0\PARCIAL ELECTIVA.dll
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\obj\Debug\net10.0\refint\PARCIAL ELECTIVA.dll
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\obj\Debug\net10.0\PARCIAL ELECTIVA.pdb
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\obj\Debug\net10.0\PARCIAL ELECTIVA.genruntimeconfig.cache
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\obj\Debug\net10.0\ref\PARCIAL ELECTIVA.dll
