@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PARCIAL ELECTIVA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fefafc0bb4434a0ca066af5235988d23f9aba066")]
 [assembly: System.Reflection.AssemblyProductAttribute("PARCIAL ELECTIVA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PARCIAL ELECTIVA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

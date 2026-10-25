@@ -12,3 +12,4 @@ C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\obj\Debug\net10.0\refint\PARCIAL
 C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\obj\Debug\net10.0\PARCIAL ELECTIVA.pdb
 C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\obj\Debug\net10.0\PARCIAL ELECTIVA.genruntimeconfig.cache
 C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\obj\Debug\net10.0\ref\PARCIAL ELECTIVA.dll
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL ELECTIVA\obj\Debug\net10.0\PARCIAL ELECTIVA.sourcelink.json
